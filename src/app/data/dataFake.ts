@@ -1,16 +1,26 @@
 export const dataFake = [
     {
         "id":"1",
-        "photo":"Shrek",
-        "title": "SAIU novo filme animação",
-        "description": "Pagina 1",
-        "photoCover" : "https://play-lh.googleusercontent.com/yyk9c52Ql7jHHa_Rjtw7nZ_S_JIdMMSv2VPgZd2K8k1meHw6aYQ80YOUzoztqKHqbaE=w240-h480-rw"
+        "title": "NOVO FILME DE ANIMACAO",
+        "description": "SHREK",
+        "photoCover" : "./assets/animacao.jpg"
     },
     {
         "id":"2",
-        "photo":"John Wick",
-        "title":"saiu novo filme acao",
-        "description": "Pagina 2",
-        "photoCover": "https://img.olhardigital.com.br/wp-content/uploads/2023/11/John-Wick-4.png"
+        "title": "NOVO FILME DE ACAO",
+        "description": "JOHN WICK",
+        "photoCover" : "./assets/acao.webp"
+    },
+    {
+        "id":"3",
+        "title": "NOVO FILME DE AVENTURA",
+        "description": "MAD MAX: FURY ROAD",
+        "photoCover" : "./assets/aventura.jpg"
+    },
+    {
+        "id":"4",
+        "title": "NOVO FILME DE TERROR",
+        "description": "GET OUT!",
+        "photoCover" : "./assets/terror.webp"
     }
 ]
